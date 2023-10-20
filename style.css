@@ -1,0 +1,11 @@
+.box{
+	width:200px;
+	height:200px;
+	background-color:brown;
+}
+/* Mobile Devices */
+@media only screen and (max-width: 767px) {
+	.box{
+		background-color:aqua;
+	}
+}
